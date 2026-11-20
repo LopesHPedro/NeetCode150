@@ -19,3 +19,19 @@ This repository is automatically updated and versioned via [LeetHub v2](https://
 - **Primary Language:** Python 3
 - **Study Platforms:** LeetCode & NeetCode.io
 - **Automation:** LeetHub v2 (automatic sync of problem descriptions and accepted solutions)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/LopesHPedro/NeetCode150/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/LopesHPedro/NeetCode150/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/LopesHPedro/NeetCode150/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->
